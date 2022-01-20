@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(77, 18, 133);
+
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 20px;
+    width: 350px;
+    margin: auto;
+    box-shadow: 10px 10px 10px rgba(1, 1, 2, 0.555);
+
+}
+
+#msg{
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+
+div{
+    text-align: center;
+    padding: 85x;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font-style:italic ;
+
+}
